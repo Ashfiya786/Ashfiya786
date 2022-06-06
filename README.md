@@ -141,29 +141,29 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">
 <!--   <h3 align="center">Passionate in Software Development and Web Development👻👾</h3>
   Hi 👋there, I'm Shrey Srivastava@Dev🐱‍👤 -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+<!-- </h3> -->
 
-<p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+<!-- <p align="center"> -->
+<!--   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a> -->
 </p>
 
 
-<h1 align="center">Hi 👋, I'mv🐱‍👤</h1>
-<h3 align="center">Passionate in Software & Web Development👻👾</h3>
-<h3 align="center">(◠‿◕)SHREY╬メ🎭</h3>
-<h3 align="center">🙂 NEVER GIVE UP😉</h3>
-<h3 align="center">🎶🔋📲🍗👨‍💼♻️</h3>
-<h3 align="center">👨‍💻Dream Software Expert</h3>
-<h3 align="center">#loveprogramming#chillwith😍</h3>
+<!-- <h1 align="center">Hi 👋, I'mv🐱‍👤</h1> -->
+<!-- <h3 align="center">Passionate in Software & Web Development👻👾</h3> -->
+<!-- <h3 align="center">(◠‿◕)SHREY╬メ🎭</h3> -->
+<!-- <h3 align="center">🙂 NEVER GIVE UP😉</h3> -->
+<!-- <h3 align="center">🎶🔋📲🍗👨‍💼♻️</h3> -->
+<!-- <h3 align="center">👨‍💻Dream Software Expert</h3> -->
+<!-- <h3 align="center">#loveprogramming#chillwith😍</h3> -->
 
 
-<a href="">
-<img src="![1](https://user-images.githubusercontent.com/84815622/164991101-492e0e1c-bc8c-4336-8dae-e77fca9ccfce.png)
-" />
-</a>
+<!-- <a href=""> -->
+<!-- <img src="![1](https://user-images.githubusercontent.com/84815622/164991101-492e0e1c-bc8c-4336-8dae-e77fca9ccfce.png) -->
+<!-- " /> -->
+<!-- </a> -->
 
-### 🍁 My Skill Stacks :
+<!-- ### 🍁 My Skill Stacks : -->
 
 |               |           |
 |       ---     |    ---    |
