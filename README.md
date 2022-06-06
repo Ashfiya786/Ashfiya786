@@ -51,7 +51,7 @@
 
  -->
  
- [3:34 pm, 06/06/2022] Shrey Shrivastava 21 Jan: <!-- - 👋 Hi, I’m @Shrey-Srivastava
+<!--  [3:34 pm, 06/06/2022] Shrey Shrivastava 21 Jan: <!-- - 👋 Hi, I’m @Shrey-Srivastava
 <!-- - 👀 I’m interested to learn more skills to overcome coding challenges
 - 🌱 I’m currently learning Full stack Development to become pro web developer
 - 💞 I’m looking to collaborate on other contents
@@ -189,4 +189,5 @@ You can click the Preview link to take a look at your changes.
 | <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />  | `https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white`  |
 | <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />           |    https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06                          |
 | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />             | 
+ -->
  -->
