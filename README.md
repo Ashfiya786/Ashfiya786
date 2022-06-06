@@ -134,7 +134,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="right">
+<!-- <p align="right">
   <a href="https://wakatime.com/@shakib"><img alt="" src="https://wakatime.com/badge/user/8e02bfd3-85d8-4d9d-88df-fa983f91ff30.svg"></a>
   <a href="#"><img alt="" src="https://gpvc.arturio.dev/Mo-Shakib"></a>
 </p>
@@ -149,7 +149,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Shrey Srivastava@Dev🐱‍👤</h1>
+<h1 align="center">Hi 👋, I'mv🐱‍👤</h1>
 <h3 align="center">Passionate in Software & Web Development👻👾</h3>
 <h3 align="center">(◠‿◕)SHREY╬メ🎭</h3>
 <h3 align="center">🙂 NEVER GIVE UP😉</h3>
@@ -189,3 +189,4 @@ You can click the Preview link to take a look at your changes.
 | <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />  | `https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white`  |
 | <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />           |    https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06                          |
 | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />             | 
+ -->
