@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Ashfiya Khan</h1>
+<h1 align="center">Hi 👋, I'm Ashfiya Khan</h1>
 
 <h3 align="center">A girl passionate to learn new things</h3>
 
@@ -49,7 +49,7 @@
 
 
 
- -->
+
  
 <!--  [3:34 pm, 06/06/2022] Shrey Shrivastava 21 Jan: <!-- - 👋 Hi, I’m @Shrey-Srivastava
 <!-- - 👀 I’m interested to learn more skills to overcome coding challenges
