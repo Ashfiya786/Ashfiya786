@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashfiya Khan</h1>
 
 <h3 align="center">A girl passionate to learn new things</h3>
+<h3 align="center">"If you are working on something that you really care about ,you don't have to be pushed.The Vision Pulls You "</h3> 
 
  <p align="center"> 
    <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Glad+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+whenever+you+need+me+🤗;Have+an+awesome+day+😊"></a> 
