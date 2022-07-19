@@ -2,13 +2,14 @@
 
 <h3 align="center">A girl passionate to learn new things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfiya786&label=Profile%20views&color=0e75b6&style=flat" alt="ashfiya786" /> </p>
-
+ <p align="center"> 
+   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Glad+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+whenever+you+need+me+🤗;Have+an+awesome+day+😊"></a> 
+ </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfiya786" alt="ashfiya786" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning Full stack Development to become pro web developer
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
@@ -57,7 +58,6 @@
 - 💞 I’m looking to collaborate on other contents
 - 😎 I know C++, C, Java and Python   
 - 🤖 I'm co-leader and pro-coding member of Hackathon Team at VIT, Bhopal-@White Hats
-- 📫 How to reach me @+91-6392098133
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play 3D online games -->
 
@@ -145,7 +145,7 @@ You can click the Preview link to take a look at your changes.
 <!-- </h3> -->
 
 <!-- <p align="center"> -->
-<!--   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a> -->
+<!--   <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Glad+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+whenever+you+need+me+🤗;Have+an+awesome+day+😊"></a> -->
 <!-- </p> -->
 
 
