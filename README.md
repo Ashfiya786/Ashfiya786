@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashfiya Khan</h1>
+<h2 align="center">Welcome to my GitHub profile, where my passion for coding and commitment to excellence coverage </h2>
 
 <h3 align="center">A girl passionate to learn new things</h3>
-<h3 align="center">"If you are working on something that you really care about ,you don't have to be pushed.The Vision Pulls You "</h3> 
+<h3 align="center">"If you are working on something that you really care about, you don't have to be pushed. The Vision Pulls You "</h3> 
 
  <p align="center"> 
    <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Glad+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+whenever+you+need+me+🤗;Have+an+awesome+day+😊"></a> 
@@ -10,11 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning Full stack Development to become pro web developer
+- 🌱 I am a MERN Stack Developer and have completed my internship in this domain.
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
 - 📫 How to reach me **ashfiyalhan786@gmail.com**
+
+- ⚡ Travelling is a source of inspiration for me, as it exposes me to diverse cultures, perspectives, and experiences. This global outlook influences my coding by fostering a mindset of inclusivity and adaptability.
+
+- 💞 Volunteering is an integral part of my life, and I actively contribute to causes I care about.
+ 
+- 😎 I seek to enhance my understanding of Data structure and algorithms, enabling me to optimize code performance and develop highly efficient solutions for complex problems.
+
+- 👀 I strive to cultivate a growth mindset embracing challenges as opportunities for learning and personal growth, and consistently pushing the boundaries of my knowledge and capabilities.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -53,6 +62,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfiya786&" alt="ashfiya786" /></p>
 
+<h1 align="center">Thank You ✨ for visiting 😇 my Github Profile 😊</h1>
 
 
 
@@ -201,6 +211,9 @@ Badge                                                                           
 | <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />           |    https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06                          |
 | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />             | 
  -->
-                                      𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖜𝖔𝖗𝖑𝖉 𝖔𝖋 𝕮𝖔𝖉𝖎𝖓𝖌!👩🏻‍💻🤗
+                                      
+
+                                       
+                                      
 
 
