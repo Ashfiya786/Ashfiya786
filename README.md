@@ -7,7 +7,7 @@
  <p align="center"> 
    <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😇;Glad+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+whenever+you+need+me+🤗;Have+an+awesome+day+😊"></a> 
  </p>
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfiya786" alt="ashfiya786" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfiya786" alt="ashfiya786" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -28,8 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-
-<a href="https://dev.to/ashfiya khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashfiya khan" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/ashfiya khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfiya khan" height="30" width="40" /></a>
 
