@@ -138,6 +138,13 @@
 
 <br>
 
+### <p align="center">🎡 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖜𝖔𝖗𝖑𝖉 𝖔𝖋 𝕮𝖔𝖉𝖎𝖓𝖌! 👨‍💻</p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="100%">
+</h3>
+
+<hr>
 
 <h2 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈!💖</h2>
 
@@ -146,3 +153,5 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
+
