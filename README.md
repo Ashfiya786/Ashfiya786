@@ -19,7 +19,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Ashfiya786&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://github.com/Ashfiya786/Ashfiya786/assets/80691785/d4f1062f-13ea-49b0-b9e2-d5155003e988" />
+
+
+
 </p>
 
 <h3 align="center">
