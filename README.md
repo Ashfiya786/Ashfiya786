@@ -19,7 +19,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Ashfiya786/Ashfiya786/assets/80691785/d4f1062f-13ea-49b0-b9e2-d5155003e988" />
+<img src="https://github.com/Ashfiya786/Ashfiya786/assets/80691785/7e987df6-5c8f-4532-89c1-5a6f1397f616"
+" />
 
 
 
